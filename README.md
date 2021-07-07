@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cayla Franklin</h1>
 <h3 align="center">A passionate frontend developer from Chicago</h3>
 
-- 🔭 I’m currently working with **Code Your Dreams** as a Volunteer React Developer and an Ecommerce React Project
+- 🔭 I’m currently working with **Code Your Dreams** as a Volunteer React Developer
 
 - 🌱 I’m currently learning **React, Node**
 
