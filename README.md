@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Cayla Franklin</h1>
 <h3 align="center">A passionate frontend developer from Chicago</h3>
 
-- 🔭 I’m currently working with **Code Your Dreams** as a Volunteer React Developer
+- 🔭 I’m currently working with **Authentic Campaigns** as an Associate Web Developer.
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [caylafranklin.netlify.app/](caylafranklin.netlify.app/)
-
-- 📫 How to reach me **cjfranklin4@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
