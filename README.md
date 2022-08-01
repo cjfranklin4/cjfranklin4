@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cayla Franklin</h1>
 <h3 align="center">A passionate frontend developer from Chicago</h3>
 
-- 🔭 I’m currently working with **Authentic Campaigns** as an Associate Web Developer.
+- 🔭 I’m currently working with **Authentic Campaigns** as a Web Developer.
 
 - 🌱 I’m currently learning **React**
 
